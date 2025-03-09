@@ -1,0 +1,36 @@
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.exe
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.deps.json
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.runtimeconfig.json
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.dll
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.pdb
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.Form1.resources
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.dll
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\refint\Coursework.dll
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.pdb
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\ref\Coursework.dll
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.Form2.resources
+C:\Users\Администратор\Desktop\programs\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.Form3.resources
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.exe
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.deps.json
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.runtimeconfig.json
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.dll
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\bin\Debug\net8.0-windows\Coursework.pdb
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.Form1.resources
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.Form2.resources
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.Form3.resources
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.dll
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\refint\Coursework.dll
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.pdb
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\Coursework.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\programs\Алг и стр данных\CalculateMath\Coursework\obj\Debug\net8.0-windows\ref\Coursework.dll
